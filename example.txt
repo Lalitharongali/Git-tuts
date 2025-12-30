@@ -1,1 +1,2 @@
-This a an example of git
+This a an example of git. For today
+
